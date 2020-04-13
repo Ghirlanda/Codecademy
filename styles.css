@@ -1,0 +1,42 @@
+body {
+  background: antiquewhite;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: Georgia;
+}
+
+h1 {
+    color: Red;
+}
+
+h2 {
+  color: Darksalmon;
+}
+table {
+  margin: auto;
+  border: solid 4px purple;
+  padding: 100;
+  text-align: left;
+  font-family: Verdana;
+}
+thead th {
+  background: violet;
+  font-size: 20px;
+  font-family: Arial;
+  text-align: center;
+}
+
+tr {
+  border: solid 2px purple;
+  background: antiquewhite;
+}
+
+.code {
+  font-family: Courier;
+  background-color: Azure;
+}
+
